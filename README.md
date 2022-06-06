@@ -14,6 +14,7 @@ $ pip install bs4
 $ pkg install git
 $ ls
 $ rm -rf ids_Extractor
+$ ls
 $ rm -rf Unlimited-Dumping-Pro
 $ git clone https://github.com/BD-MRZ-KING/Unlimited-Dumping-Pro
 $ cd Unlimited-Dumping-Pro
